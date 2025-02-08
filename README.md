@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgamalleshnunna&label=Profile%20views&color=0e75b6&style=flat" alt="durgamalleshnunna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgamalleshnunna" alt="durgamalleshnunna" /></a> </p>
 
 - 🔭  I’m Intern In : Techwing**
 
