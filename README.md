@@ -6,7 +6,7 @@
 
 - 🔭  I’m Intern In : Techwing**
 
-- 🌱 I’m currently learning : Spring Boot, Microservices, React.js, Cloud Technologies**
+- 🌱 I’m currently learning : Spring Boot, Angular, React.js, ResatApi**
 
 - 💬 Ask me about : Java, Spring Boot, React.js, Vue.js, GSAP**
 
